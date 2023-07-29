@@ -75,6 +75,18 @@ interactions, where each side effect is an edge of a different type.
 
 </div>
 
+# Analysis of Data using Network:
+<div>
+
+  <img src="https://github.com/doaasa/Big-Data-Analysis-Project/blob/main/Analysis%20Project/image_2023-05-22_20-30-25.png" width=100%> 
+  <img src="https://github.com/doaasa/Big-Data-Analysis-Project/blob/main/Analysis%20Project/image_2023-05-22_20-30-25.png" width=100%> 
+  <img src="https://github.com/doaasa/Big-Data-Analysis-Project/blob/main/Analysis%20Project/image_2023-05-22_20-30-25.png" width=100%> 
+
+
+
+</div>
+
+
 
 # To contact Developer:
 ## [LinkedIn](https://www.linkedin.com/in/doaa-sayed-ibrahim-08a77a209) 
