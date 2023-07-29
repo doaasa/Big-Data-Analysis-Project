@@ -61,8 +61,16 @@ interactions, where each side effect is an edge of a different type.
 # Project Images:
 <div>
 
-  <img src="https://github.com/doaasa/PetsStoreDesktopApplication/blob/main/Images/Screenshot%20(926).png" width=100%> 
-  <img src="https://github.com/doaasa/PetsStoreDesktopApplication/blob/main/Images/Screenshot%20(927).png" width=100%> 
+  <img src="https://github.com/doaasa/Big-Data-Analysis-Project/blob/main/Project%20Images/Screenshot%20(937).png" width=100%> 
+  <img src="https://github.com/doaasa/Big-Data-Analysis-Project/blob/main/Project%20Images/Screenshot%20(938).png" width=100%> 
+  <img src="https://github.com/doaasa/Big-Data-Analysis-Project/blob/main/Project%20Images/Screenshot%20(939).png" width=100%> 
+  <img src="https://github.com/doaasa/Big-Data-Analysis-Project/blob/main/Project%20Images/Screenshot%20(940).png" width=100%> 
+  <img src="https://github.com/doaasa/Big-Data-Analysis-Project/blob/main/Project%20Images/Screenshot%20(941).png" width=100%> 
+  <img src="https://github.com/doaasa/Big-Data-Analysis-Project/blob/main/Project%20Images/Screenshot%20(942).png" width=100%> 
+  <img src="https://github.com/doaasa/Big-Data-Analysis-Project/blob/main/Project%20Images/Screenshot%20(943).png" width=100%> 
+  <img src="https://github.com/doaasa/Big-Data-Analysis-Project/blob/main/Project%20Images/Screenshot%20(944).png" width=100%>
+    <img src="https://github.com/doaasa/Big-Data-Analysis-Project/blob/main/Project%20Images/Screenshot%20(945).png" width=100%> 
+        <img src="https://github.com/doaasa/Big-Data-Analysis-Project/blob/main/Project%20Images/screencapture-localhost-8501-2023-07-29-02_28_29.png" width=100%> 
 
 
 </div>
