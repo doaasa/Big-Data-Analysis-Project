@@ -24,7 +24,7 @@ interactions, where each side effect is an edge of a different type.
 ## Example of data:
 <div>
 
-  <img src="https://github.com/doaasa/Big-Data-Analysis-Project/tree/main/Data%20Images/Screenshot%20(947).png" width=100%> 
+  <img src="https://github.com/doaasa/Big-Data-Analysis-Project/blob/main/Data%20Images/Screenshot%20(947).png" width=100%> 
   <img src="https://github.com/doaasa/Big-Data-Analysis-Project/tree/main/Data%20Images/Screenshot%20(948).png" width=100%> 
   <img src="https://github.com/doaasa/Big-Data-Analysis-Project/tree/main/Data%20Images/Screenshot%20(949).png" width=100%> 
   <img src="https://github.com/doaasa/Big-Data-Analysis-Project/tree/main/Data%20Images/Screenshot%20(951).png" width=100%> 
